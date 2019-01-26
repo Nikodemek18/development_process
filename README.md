@@ -26,7 +26,7 @@
 
 [Latest Updates Signup](http://bit.ly/QSPNews)
 
-![Footer](Footer.png)
+[![Footer](Footer.png)](https://quantstamp.com/)
 
 
 ©2019 Quantstamp, Inc.  All rights reserved.
