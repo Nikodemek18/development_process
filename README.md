@@ -1,2 +1,4 @@
-# readme_first
-Quantstamp development process readme
+# Quantstamp Development Process
+
+![Dev Process](https://octodex.github.com/images/yaktocat.png)
+
