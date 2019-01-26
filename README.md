@@ -2,29 +2,29 @@
 
 ![DevProcess](OurDevelopmentPhilosophy.png)
 
-We are formal verification and security experts at heart. When we release code publically, we have ensure it has been thoroughly tested. We follow or exceed industry standard security practices, this extends to our development. This is a glimpse into our updated private repo activity on github and via our project management board JIRA.
+We are formal verification and security experts at heart. When we release code publically, we have to ensure it has been thoroughly tested. We follow or exceed industry standard security practices, this extends to our development process. This is a glimpse into our private repo activity on github and via our project management board JIRA.
 
-# JIRA Board Cumulative Flow for Protocol Node
+## JIRA Board Cumulative Flow for Protocol Node
 
 ![JIRABoardCumulativeFlow](QSPBoardCumulativeFlow.png)
 
-# Internal Github Code Frequency for Protocol Node
+## Internal Github Code Frequency for Protocol Node
 
 ![CodeFrequency](QSPCodeFrequency.png)
 
-# JIRA Board Cumulative Flow for Staking Protocol
+## JIRA Board Cumulative Flow for Staking Protocol
 
 ![JIRABoardStaking](StakingBoardCumulativeFlow.png)
 
-# Development Roadmap
+## Development Roadmap
 
 [Updated Roadmap](https://medium.com/quantstamp/quantstamp-visual-timeline-q4-2018-b61c369fea26)
 
-# About
+## About
 
 [About](https://quantstamp.com/about)
 
-# Get The Latest Updates
+## Get The Latest Updates
 
 [Latest Updates Signup](http://bit.ly/QSPNews)
 
