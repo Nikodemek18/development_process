@@ -1,6 +1,6 @@
 # Quantstamp Development Process
 
-![Dev Process](/Our Development Philosophy.png)
+![Dev Process](/readme_first/Our Development Philosophy.png)
 
 
 
