@@ -16,6 +16,10 @@ We are formal verification and security experts at heart. When we release code p
 
 ![JIRABoardStaking](StakingBoardCumulativeFlow.png)
 
+## Typical Sprint Setup for a Project
+
+![JIRABoardPU](JiraBoardPU.png)
+
 ## Development Roadmap
 
 [Updated Roadmap](https://medium.com/quantstamp/quantstamp-visual-timeline-q4-2018-b61c369fea26)
