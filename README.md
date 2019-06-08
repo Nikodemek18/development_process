@@ -2,7 +2,7 @@
 
 ![DevProcess](OurDevelopmentPhilosophy.png)
 
-We are formal verification and security experts at heart. When we release code publically, we have to ensure it has been thoroughly tested. We follow or exceed industry standard security practices, this extends to our development process. This is a glimpse into our private repo activity on github and via our project management board JIRA.
+We are formal verification and security experts at heart. When we release code publically, we have to ensure it has been thoroughly tested. We follow or exceed industry standard security practices, this extends to our development process. This is a glimpse into our repo activity on github and via our project management board JIRA.
 
 ## JIRA Board Cumulative Flow for Protocol Node
 
